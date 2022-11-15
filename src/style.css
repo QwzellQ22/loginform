@@ -1,0 +1,15 @@
+.App {
+    height: 120vh;
+    background-image: url('./Images/Background.jpeg');
+    background-size: cover;
+    
+}
+
+.main-form {
+    width: 400px;
+    margin-top: 100px;
+}
+
+.ca {
+    padding-top: 100px;
+}
